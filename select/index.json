@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "目覚めRETURNER",
+  "base_artist": "フランシュシュ",
+  "createdAt": "2026-02-06T12:50:22.801411Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "目覚めRETURNER",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/01_目覚めRETURNER_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "目覚めRETURNER (Electric Returner)",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/02_目覚めRETURNER_(Electric_Returner)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "目覚めRETURNER - Electric Returner Type \"R\"",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/03_目覚めRETURNER_-_Electric_Returner_Type__R_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "目覚めRETURNER (Electric Returner Type \"R\")",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/04_目覚めRETURNER_(Electric_Returner_Type__R_)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "目覚めRETURNER",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/05_目覚めRETURNER_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "目覚めRETURNER (Electric Returner Type “R”)",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/06_目覚めRETURNER_(Electric_Returner_Type_“R”)_フランシュシュ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "目覚めRETURNER",
+      "artist": "FranChouChou",
+      "has_synced": true,
+      "path": "select/07_目覚めRETURNER_FranChouChou.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "目覚めRETURNER (Electric Returner)",
+      "artist": "FranChouChou",
+      "has_synced": true,
+      "path": "select/08_目覚めRETURNER_(Electric_Returner)_FranChouChou.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "目覚めRETURNER (3号ソロver.)",
+      "artist": "フランシュシュ3号",
+      "has_synced": true,
+      "path": "select/09_目覚めRETURNER_(3号ソロver.)_フランシュシュ3号.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "目覚めRETURNER (3号ソロver.)",
+      "artist": "フランシュシュ3号",
+      "has_synced": true,
+      "path": "select/10_目覚めRETURNER_(3号ソロver.)_フランシュシュ3号.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "目覚めRETURNER (Electric Returner Type “R”)",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/11_目覚めRETURNER_(Electric_Returner_Type_“R”)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "目覚めRETURNER (Electric Returner Type \"R\") - TV size",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/12_目覚めRETURNER_(Electric_Returner_Type__R_)_-_TV_size_フランシュシュ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "目覚めRETURNER(Electric Returner)",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/13_目覚めRETURNER(Electric_Returner)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "目覚めRETURNER",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/14_目覚めRETURNER_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "目覚めRETURNER (Electric Returner)",
+      "artist": "フランシュシュ (本渡楓, 田野アサミ, 種田梨沙, 河瀬茉希, 衣川里佳, 田中美海)",
+      "has_synced": true,
+      "path": "select/15_目覚めRETURNER_(Electric_Returner)_フランシュシュ_(本渡楓,_田野アサミ,_種田梨沙,_河瀬茉希,_衣川里佳,_田中美海).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "目覚めRETURNER",
+      "artist": "フランシュシュ (本渡楓, 田野アサミ, 種田梨沙, 河瀬茉希, 衣川里佳, 田中美海)",
+      "has_synced": true,
+      "path": "select/16_目覚めRETURNER_フランシュシュ_(本渡楓,_田野アサミ,_種田梨沙,_河瀬茉希,_衣川里佳,_田中美海).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "目覚めRETURNER (Electric Returner)",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/17_目覚めRETURNER_(Electric_Returner)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "目覚めRETURNER",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/18_目覚めRETURNER_フランシュシュ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "目覚めRETURNER",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/pl_01_目覚めRETURNER_フランシュシュ.txt"
+    }
+  ]
+}
